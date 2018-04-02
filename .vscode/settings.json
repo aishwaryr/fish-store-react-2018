@@ -1,0 +1,11 @@
+{
+  "prettier.tabWidth": 2,
+  "editor.formatOnSave": true,
+  // turn it off for js
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.printWidth": 120,
+  "eslint.alwaysShowStatus": false,
+  "eslint.autoFixOnSave": false
+}
